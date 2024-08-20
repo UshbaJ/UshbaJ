@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects related to Data Science
-- 📫 You can reach me via Emsil ushbajamshid03@gmail.com
+- 📫 You can reach me via Email ushbajamshid03@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ I'm an enthusiastic person who is always willing to learn and grow 
 
